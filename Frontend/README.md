@@ -153,6 +153,7 @@ JavaScript (React for frontend, Node for backend), MongoDB
 
 Description:
 Build an event planning platform where users can create, manage, and RSVP to events. Include features like location maps, date/time pickers, and notifications.
+![doctr2](https://github.com/user-attachments/assets/219aea2f-c287-4268-bc53-5095093eedad)
 
 Milestones:
 Implement authentication
